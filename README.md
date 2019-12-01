@@ -9,7 +9,7 @@ Taught by Prof. Hakner
 
 ## Assignment 4: Fixing Your Cat
 
-## Assignment 5: Replace
+## Assignment 5: Mmap
 
 ## Assignment 6: FIFO - spinlocks, semaphores
 
